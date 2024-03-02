@@ -11,3 +11,6 @@ Timing: Master the timing of your swings to ensure maximum hits. Anticipate mole
 Combo Hits: Aim for consecutive hits without missing to build up combo scores. Look for clusters of moles to maximize your combos.
 
 Cathartic Gameplay: Channel your stress into the game by venting frustrations on the moles. The act of whacking them can provide a satisfying release.
+
+
+https://github.com/Haricharan2012/SpaceXShoot/assets/160393488/0c476f0e-bbdb-4717-bf76-ed2352da403c
